@@ -7,7 +7,7 @@ Algoritmo simples de autenticação que solicita um nome de usuário e senha, pe
 
 ## ⚙️Como usar
 1. Abra o VisuAlg 3.0
-2. Carregue o arquivo `verificacao_senha.alg`
+2. Carregue o arquivo `senha-portugol.alg`
 3. Execute o algoritmo (F9)
 4. Siga as instruções na tela para cadastrar e verificar a senha
 
